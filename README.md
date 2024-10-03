@@ -24,7 +24,7 @@ Gain insights into the complexity and structure of internet routing.
 **A. Trace It!**
 1. Open Terminal (Linux/macOS) or Command Prompt (Windows).
 2. Run the Command:   
-    **Linux/macOS:** Type _**traceroute google.com**_ and press _**Enter**_
+    **Linux/macOS:** Type _**traceroute google.com**_ and press _**Enter**_      
     **Windows:** Type _**tracert google.com**_ and press _**Enter**_
 
 **B. Decoding the Results:**

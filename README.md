@@ -1,6 +1,6 @@
 # Trace the Route!  
 
-### Understanding the Journey:
+### Understanding the Journey
 
 Imagine sending a message to a friend online. That message travels as a packet of data, hopping across different networks and routers to reach its destination. Tracing this journey is crucial for:
 
@@ -23,8 +23,8 @@ Gain insights into the complexity and structure of internet routing.
 
 **A. Trace It!**
 1. Open Terminal (Linux/macOS) or Command Prompt (Windows).
-2. Run the Command:
-    **Linux/macOS:** Type _**traceroute google.com**_ and press _**Enter**_
+2. Run the Command:   
+    **<u>Linux/macOS:<u>** Type _**traceroute google.com**_ and press _**Enter**_
     **Windows:** Type _**tracert google.com**_ and press _**Enter**_
 
 **B. Decoding the Results:**
